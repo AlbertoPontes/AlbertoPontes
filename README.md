@@ -6,8 +6,6 @@ Sou novo no GitHub, e estou estudando sobre codigos de programação.
 
 Fiquem à vontade para dar dicas.
 
-<hr align="center" noshade>
-
 ##
 
 <div style="display: inline_block"><br>
