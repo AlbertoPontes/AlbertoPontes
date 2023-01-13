@@ -11,8 +11,8 @@ Fiquem à vontade para dar dicas.
 ##
 
 <div>
-    <a href="https://github.com/AlbertoPontes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoPontes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+ ![AlbertoPontes Status](https://github-readme_stats.vercel.app/api?username=AlbertoPontes&theme=transparent&show_icons=true)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPontes&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
