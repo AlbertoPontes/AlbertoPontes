@@ -6,6 +6,7 @@ Sou novo no GitHub, e estou estudando sobre codigos de programação.
 
 Fiquem à vontade para dar dicas.
 
+##
 <div>
 <a href="https://github.com/AlbertoPontes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoPontes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -25,6 +26,6 @@ Fiquem à vontade para dar dicas.
   <a href = "mailto:albertocpontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alberto-cavalcante-pontes-89a451a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<div>
-  <![Snake animation](https://github.com/AlbertoPontes/AlbertoPontes/blob/output/github-contribution-grid-snake.svg)>
-</div>
+
+![Snake animation](https://github.com/AlbertoPontes/AlbertoPontes/blob/output/github-contribution-grid-snake.svg)
+
