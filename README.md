@@ -28,5 +28,5 @@ Fiquem à vontade para dar dicas.
   <a href="https://www.linkedin.com/in/alberto-cavalcante-pontes-89a451a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/AlbertoPontes/AlbertoPontes/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/AlbertoPontes/AlbertoPontes/blob/output/github-contribution-grid-snake.svg)
 
