@@ -1,10 +1,9 @@
 ### Olá, 👋 Alberto aqui!
-Sou novo no GitHub, e estou estudando sobre codigos de programação.
--  Atualmente trabalho em um grupo agrícola como Analista de Infraestrutura na região oeste da Bahia.
--  Tenho interesse em JavaScript, Python, SQL e ferramentas de integração.
--  Gosto de aprender e me coloco a disposição para participar de projetos com intuito de aprendizagem. 
+Sou estudante de Ciência de Dados.
+-  Atualmente trabalho em um grupo agrícola como Analista de Infraestrutura, na região oeste da Bahia.
+-  Tenho interesse em Python, SQL e ferramentas de integração e dados.
+-  Gosto de aprender e me coloco a disposição para participar de projetos. 
 
-Fiquem à vontade para dar dicas.
 
 ##
 
