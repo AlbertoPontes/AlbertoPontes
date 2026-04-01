@@ -1,5 +1,5 @@
 ### Olá, 👋 Alberto aqui!
-Sou estudante de Ciência de Dados.
+Sou Tecnólogo em Ciência de Dados.
 -  Atualmente trabalho em um grupo agrícola como Analista de Infraestrutura, na região oeste da Bahia.
 -  Tenho interesse em Python, SQL e ferramentas de integração e dados.
 -  Gosto de aprender e me coloco a disposição para participar de projetos. 
